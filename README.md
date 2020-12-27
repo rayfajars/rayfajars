@@ -51,8 +51,9 @@
 <p align="center">
 <a href="https://twitter.com/rayfajars" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rayfajars" height="30" width="40" /></a>
 <a href="https://instagram.com/rayfajars" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rayfajars" height="30" width="40" /></a>
+  <a href="https://fb.com/rairhasta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rairhasta" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/ray-fajar-b55b54179" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ray-fajar-b55b54179" height="30" width="40" /></a>
-<a href="https://fb.com/rairhasta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rairhasta" height="30" width="40" /></a>
+
 </p>
 <br>
 
