@@ -7,7 +7,6 @@
 - 💻 Currently working, learning and growing my skillset in Web Front-end Developer 
 - 🌱 I’m currently learning **any Web Front-end Developer**
 - 🤜 I’m looking to collaborate on **Javascript, HTML, CSS, MYSQL and Framework Codeigniter**
-- 🤝 I’m looking for help with **any Web Front-end Developer**
 - 📫 How to reach me **rayfajars@gmail.com**
 
 ---
