@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">A passionate Web Front-end Developer from Indonesia</h3>
+<h3 align="center">A passionate Front-End Developer from Indonesia</h3>
 
 - 💻 Currently working, learning and growing my skillset in Web Front-end Developer 
 - 🌱 I’m currently learning **any Web Front-end Developer**
