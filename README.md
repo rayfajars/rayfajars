@@ -2,9 +2,9 @@
 
 ---
 
-<h3 align="center">A passionate Front-End Developer from Indonesia</h3>
+<h3 align="center">A passionate Front-End Web Developer and Fullstack Web Developer from Indonesia</h3>
 
-- 💻 Currently working, learning and growing my skillset in Web Front-end Developer 
+- 💻 Currently working, learning and growing my skillset in Front-End Web Developer and Fullstack Web Developer 
 - 🌱 I’m currently learning **any Web Front-end Developer**
 - 🤜 I’m looking to collaborate on **Javascript, HTML, CSS, MYSQL and Framework Codeigniter**
 - 📫 How to reach me **rayfajars@gmail.com**
